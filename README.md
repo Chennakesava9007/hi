@@ -16,8 +16,8 @@ This is a classic Snake Game built using Python's `tkinter` library. The player 
 
 ## 📸 Screenshot
 
-![Snake Game Screenshot](screenshot.png)  
-*Make sure to add a screenshot named `screenshot.png` in the repo.*
+![Snake Game Screenshot](snake_game_pics.png)  
+
 
 ---
 
